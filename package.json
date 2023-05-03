@@ -35,7 +35,7 @@
   "files": [
     "README.md",
     "./dist/index.cjs",
-    "./dist/index.mjs",
+    "./dist/index.js",
     "./dist/index.d.ts"
   ],
   "publishConfig": {
