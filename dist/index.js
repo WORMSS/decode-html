@@ -255,7 +255,7 @@ var codes = {
   zwnj: "\u200C"
 };
 
-// src/index.ts
+// src/decodeHtml.ts
 function decodeHtml(input) {
   return input.replace(/&(#?\w+?);/g, replacer);
 }
