@@ -1,5 +1,5 @@
 import { expect, describe, it } from 'vitest';
-import { decodeHtml } from './decodeHtml';
+import { decodeHtml } from './index';
 
 describe(decodeHtml.name, () => {
   it('should decode space and single quote by decimal', () => {
